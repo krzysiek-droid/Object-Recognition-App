@@ -27,8 +27,7 @@
 
 App results:
 Input image:
-![input_image](data/4_1_4_BSE_001x250.jpg)
+![input_image](data/input_image.png)
 
 Objects contours image:
 ![output_image](data/processed_images/contours.png)
-
